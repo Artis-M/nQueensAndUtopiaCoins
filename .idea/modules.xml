@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Assignment_3.iml" filepath="$PROJECT_DIR$/Assignment_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hand 3.iml" filepath="$PROJECT_DIR$/Hand 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utopia_Coins/Utopia_Coins.iml" filepath="$PROJECT_DIR$/Utopia_Coins/Utopia_Coins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nQueens/nQueens.iml" filepath="$PROJECT_DIR$/nQueens/nQueens.iml" />
     </modules>
   </component>
 </project>
