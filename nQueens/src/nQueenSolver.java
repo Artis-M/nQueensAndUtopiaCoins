@@ -2,15 +2,15 @@ public class nQueenSolver {
 
     final int Queens = 4;
 
-    boolean solveQueen() {
+    int[][] solveQueen() {
         int board[][] = {{0, 0, 0, 0},
                 {0, 0, 0, 0},
                 {0, 0, 0, 0},
                 {0, 0, 0, 0}};
         if (qSolverUtil(board, 0) == false) {
-            return false;
+            return null;
         }
-        return true;
+        return board;
     }
 
     boolean qSolverUtil(int board[][], int col) {

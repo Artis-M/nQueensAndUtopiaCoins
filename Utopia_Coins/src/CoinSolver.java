@@ -2,7 +2,7 @@ public class CoinSolver {
 
     final static int coins[] = {1, 7, 10, 22};
 
-    static int minCoins(int value)
+    public int minCoins(int value)
     {
         int table[] = new int[value + 1];
         table[0] = 0;
